@@ -1,5 +1,8 @@
+dotenv
+os
 sqlalchemy
 psycopg2-binary
 pandas
+phik
 matplotlib
 seaborn
